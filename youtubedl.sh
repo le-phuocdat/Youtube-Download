@@ -66,7 +66,7 @@ echo -e $Y $L "Creating youtube-dl config..." $N
 sleep 1.5
 
 echo -e $Y $L "Getting config file..." $N
-		wget https://raw.githubusercontent.com/hoangkim-singapore/hoangkim/master/config -P /data/data/com.termux/files/home/.config/youtube-dl
+		wget https://raw.githubusercontent.com/le-phuocdat/lephuocdat/main/config -P /data/data/com.termux/files/home/.config/youtube-dl
 
 echo -e $Y $L "Creating bin folder..." $N
 		mkdir ~/bin
