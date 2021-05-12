@@ -73,7 +73,7 @@ echo -e $Y $L "Creating bin folder..." $N
 sleep 1.5
 
 echo -e $Y $L "Getting files..." $N
-		wget https://raw.githubusercontent.com/hoangkim-singapore/hoangkim/master/termux-url-opener -P /data/data/com.termux/files/home/bin
+		wget https://raw.githubusercontent.com/le-phuocdat/lephuocdat/main/termux-url-opener -P /data/data/com.termux/files/home/bin
 		clear
 		
 echo -e $Y $L "Finishing configuration..." $N
