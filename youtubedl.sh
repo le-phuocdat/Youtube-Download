@@ -32,7 +32,7 @@ echo -e $R"  |_|\___/ \__,_|\__|\__,_|_.__/ \___|____/|_____|" $N
 
 sleep 1.5
 
-echo -e $Y $L"YouTube-dl Installer By"  $R "Shuk" $N
+echo -e $Y $L"YouTube-dl Installer By"  $R "Le Phuoc Dat" $N
 
 echo -e $Y $L"Installing python..." $N
 
